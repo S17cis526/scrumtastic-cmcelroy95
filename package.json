@@ -1,5 +1,5 @@
 {
-  "name": "cmcelroy",
+  "name": "scrumtastic",
   "version": "1.0.0",
   "description": "A web app for SCRUM software development",
   "main": "app.js",
@@ -8,17 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/S17cis526/scrumtastic-cmcelroy95.git"
+    "url": "git+https://github.com/zombiepaladin/scrumtastic.git"
   },
   "keywords": [
-    "SCRUM"
+    "SCRUM",
+    "software",
+    "development",
+    "task",
+    "board"
   ],
-  "author": "Connor McElroy",
+  "author": "Nathan H. Bean",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/S17cis526/scrumtastic-cmcelroy95/issues"
+    "url": "https://github.com/zombiepaladin/scrumtastic/issues"
   },
-  "homepage": "https://github.com/S17cis526/scrumtastic-cmcelroy95#readme",
+  "homepage": "https://github.com/zombiepaladin/scrumtastic#readme",
   "dependencies": {
     "sqlite3": "3.1.8"
   }
